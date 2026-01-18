@@ -1,0 +1,14 @@
+# Python
+virtenv/
+venv/
+__pycache__/
+*.pyc
+
+# Node.js / Frontend
+node_modules/
+dist/
+build/
+npm-debug.log
+
+# Environment variables (Safety)
+.env
